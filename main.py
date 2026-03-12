@@ -1,13 +1,15 @@
+import base64
 import os
+from collections import defaultdict
 from pathlib import Path
 from uuid import uuid4
 
 import cv2
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import JSONResponse
 
-from detectar_video import procesar_frame
+from detectar_video_json import NOMBRES_CLASES, procesar_frame
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -118,20 +120,37 @@ async def process_video(file: UploadFile = File(...)):
     fourcc = cv2.VideoWriter_fourcc(*"mp4v")
     writer = cv2.VideoWriter(str(output_path), fourcc, fps, (w, h))
 
+    datos_json = {
+        "video": file.filename,
+        "total_frames": total_frames,
+        "total_detecciones": 0,
+        "frames": {},
+    }
+    total_dets = 0
     frame_idx = 0
+
     try:
         while True:
             ok, frame = cap.read()
             if not ok:
                 break
 
-            frame_out, _ = procesar_frame(
+            frame_out, scores, clases = procesar_frame(
                 frame,
                 app.state.modelo_coarse,
                 app.state.modelo_fine,
                 app.state.config,
             )
             writer.write(frame_out)
+
+            conteo_frame: dict[str, int] = defaultdict(int)
+            for cls in clases:
+                nombre = NOMBRES_CLASES[cls] if cls < len(NOMBRES_CLASES) else str(cls)
+                conteo_frame[nombre] += 1
+
+            n_dets = len(clases)
+            total_dets += n_dets
+            datos_json["frames"][str(frame_idx)] = {"total": n_dets, **dict(conteo_frame)}
             frame_idx += 1
     finally:
         cap.release()
@@ -140,11 +159,14 @@ async def process_video(file: UploadFile = File(...)):
     if not output_path.is_file():
         raise HTTPException(status_code=500, detail="No se generó el video de salida.")
 
-    return FileResponse(
-        path=str(output_path),
-        media_type="video/mp4",
-        filename=output_path.name,
-    )
+    datos_json["total_frames"] = frame_idx
+    datos_json["total_detecciones"] = total_dets
+
+    with output_path.open("rb") as vf:
+        video_b64 = base64.b64encode(vf.read()).decode("utf-8")
+
+    datos_json["video_base64"] = video_b64
+    return JSONResponse(content=datos_json)
 
 
 @app.get("/")

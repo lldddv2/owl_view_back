@@ -1,0 +1,3289 @@
+{
+  "video": "uav0000086_00000_v.mp4",
+  "total_frames": 464,
+  "total_detecciones": 29020,
+  "frames": {
+    "0": {
+      "total": 54,
+      "pedestrian": 37,
+      "people": 13,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "1": {
+      "total": 49,
+      "pedestrian": 36,
+      "people": 9,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "2": {
+      "total": 50,
+      "pedestrian": 35,
+      "people": 12,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "3": {
+      "total": 53,
+      "pedestrian": 38,
+      "people": 12,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "4": {
+      "total": 53,
+      "pedestrian": 37,
+      "motor": 3,
+      "people": 13
+    },
+    "5": {
+      "total": 50,
+      "pedestrian": 35,
+      "motor": 3,
+      "people": 12
+    },
+    "6": {
+      "total": 52,
+      "motor": 3,
+      "pedestrian": 37,
+      "people": 12
+    },
+    "7": {
+      "total": 49,
+      "pedestrian": 36,
+      "people": 11,
+      "motor": 2
+    },
+    "8": {
+      "total": 47,
+      "pedestrian": 35,
+      "people": 11,
+      "motor": 1
+    },
+    "9": {
+      "total": 47,
+      "pedestrian": 34,
+      "people": 11,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "10": {
+      "total": 44,
+      "pedestrian": 32,
+      "people": 10,
+      "bicycle": 1,
+      "motor": 1
+    },
+    "11": {
+      "total": 45,
+      "pedestrian": 33,
+      "people": 10,
+      "bicycle": 1,
+      "motor": 1
+    },
+    "12": {
+      "total": 43,
+      "pedestrian": 31,
+      "motor": 2,
+      "people": 8,
+      "bicycle": 2
+    },
+    "13": {
+      "total": 46,
+      "pedestrian": 33,
+      "motor": 2,
+      "people": 8,
+      "bicycle": 3
+    },
+    "14": {
+      "total": 47,
+      "pedestrian": 33,
+      "motor": 1,
+      "people": 11,
+      "bicycle": 2
+    },
+    "15": {
+      "total": 50,
+      "pedestrian": 33,
+      "motor": 2,
+      "people": 12,
+      "bicycle": 3
+    },
+    "16": {
+      "total": 48,
+      "pedestrian": 33,
+      "people": 12,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "17": {
+      "total": 46,
+      "pedestrian": 33,
+      "motor": 1,
+      "people": 10,
+      "bicycle": 2
+    },
+    "18": {
+      "total": 47,
+      "pedestrian": 33,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "19": {
+      "total": 47,
+      "pedestrian": 33,
+      "motor": 1,
+      "people": 11,
+      "bicycle": 2
+    },
+    "20": {
+      "total": 45,
+      "pedestrian": 32,
+      "motor": 3,
+      "people": 8,
+      "bicycle": 2
+    },
+    "21": {
+      "total": 42,
+      "pedestrian": 30,
+      "motor": 2,
+      "people": 9,
+      "bicycle": 1
+    },
+    "22": {
+      "total": 45,
+      "pedestrian": 29,
+      "motor": 2,
+      "people": 13,
+      "bicycle": 1
+    },
+    "23": {
+      "total": 47,
+      "pedestrian": 32,
+      "motor": 2,
+      "people": 11,
+      "bicycle": 2
+    },
+    "24": {
+      "total": 51,
+      "pedestrian": 36,
+      "motor": 2,
+      "people": 12,
+      "bicycle": 1
+    },
+    "25": {
+      "total": 47,
+      "pedestrian": 34,
+      "motor": 1,
+      "people": 10,
+      "bicycle": 2
+    },
+    "26": {
+      "total": 51,
+      "pedestrian": 35,
+      "motor": 1,
+      "people": 14,
+      "bicycle": 1
+    },
+    "27": {
+      "total": 45,
+      "pedestrian": 33,
+      "motor": 1,
+      "people": 10,
+      "bicycle": 1
+    },
+    "28": {
+      "total": 49,
+      "pedestrian": 35,
+      "motor": 2,
+      "people": 10,
+      "bicycle": 2
+    },
+    "29": {
+      "total": 50,
+      "pedestrian": 36,
+      "motor": 2,
+      "people": 11,
+      "bicycle": 1
+    },
+    "30": {
+      "total": 51,
+      "motor": 2,
+      "pedestrian": 34,
+      "people": 12,
+      "bicycle": 3
+    },
+    "31": {
+      "total": 52,
+      "pedestrian": 34,
+      "motor": 2,
+      "people": 14,
+      "bicycle": 2
+    },
+    "32": {
+      "total": 56,
+      "pedestrian": 37,
+      "motor": 3,
+      "people": 14,
+      "bicycle": 2
+    },
+    "33": {
+      "total": 54,
+      "pedestrian": 36,
+      "people": 13,
+      "bicycle": 1,
+      "motor": 4
+    },
+    "34": {
+      "total": 51,
+      "pedestrian": 35,
+      "motor": 4,
+      "people": 11,
+      "bicycle": 1
+    },
+    "35": {
+      "total": 51,
+      "pedestrian": 34,
+      "people": 13,
+      "bicycle": 1,
+      "motor": 3
+    },
+    "36": {
+      "total": 52,
+      "pedestrian": 35,
+      "motor": 4,
+      "people": 12,
+      "bicycle": 1
+    },
+    "37": {
+      "total": 49,
+      "pedestrian": 31,
+      "motor": 4,
+      "people": 12,
+      "bicycle": 2
+    },
+    "38": {
+      "total": 50,
+      "pedestrian": 33,
+      "motor": 3,
+      "people": 12,
+      "bicycle": 2
+    },
+    "39": {
+      "total": 50,
+      "pedestrian": 35,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "40": {
+      "total": 46,
+      "motor": 3,
+      "pedestrian": 32,
+      "people": 11
+    },
+    "41": {
+      "total": 47,
+      "pedestrian": 37,
+      "motor": 1,
+      "people": 9
+    },
+    "42": {
+      "total": 47,
+      "pedestrian": 32,
+      "people": 13,
+      "motor": 2
+    },
+    "43": {
+      "total": 48,
+      "pedestrian": 32,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "44": {
+      "total": 52,
+      "pedestrian": 36,
+      "motor": 2,
+      "people": 13,
+      "bicycle": 1
+    },
+    "45": {
+      "total": 51,
+      "pedestrian": 35,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "46": {
+      "total": 55,
+      "pedestrian": 34,
+      "people": 16,
+      "motor": 4,
+      "bicycle": 1
+    },
+    "47": {
+      "total": 53,
+      "pedestrian": 36,
+      "people": 14,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "48": {
+      "total": 49,
+      "pedestrian": 36,
+      "people": 11,
+      "motor": 2
+    },
+    "49": {
+      "total": 52,
+      "pedestrian": 36,
+      "motor": 3,
+      "people": 12,
+      "bicycle": 1
+    },
+    "50": {
+      "total": 47,
+      "pedestrian": 36,
+      "motor": 3,
+      "people": 8
+    },
+    "51": {
+      "total": 48,
+      "pedestrian": 33,
+      "people": 12,
+      "motor": 3
+    },
+    "52": {
+      "total": 49,
+      "pedestrian": 34,
+      "motor": 2,
+      "people": 13
+    },
+    "53": {
+      "total": 48,
+      "pedestrian": 35,
+      "motor": 3,
+      "people": 10
+    },
+    "54": {
+      "total": 50,
+      "pedestrian": 35,
+      "motor": 3,
+      "people": 11,
+      "bicycle": 1
+    },
+    "55": {
+      "total": 50,
+      "pedestrian": 36,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 1,
+      "car": 1
+    },
+    "56": {
+      "total": 46,
+      "pedestrian": 35,
+      "motor": 1,
+      "people": 10
+    },
+    "57": {
+      "total": 49,
+      "pedestrian": 37,
+      "motor": 2,
+      "people": 9,
+      "bicycle": 1
+    },
+    "58": {
+      "total": 48,
+      "pedestrian": 33,
+      "people": 8,
+      "motor": 5,
+      "bicycle": 2
+    },
+    "59": {
+      "total": 45,
+      "pedestrian": 32,
+      "motor": 1,
+      "people": 12
+    },
+    "60": {
+      "total": 44,
+      "pedestrian": 34,
+      "motor": 1,
+      "people": 9
+    },
+    "61": {
+      "total": 45,
+      "pedestrian": 33,
+      "motor": 3,
+      "people": 9
+    },
+    "62": {
+      "total": 46,
+      "pedestrian": 33,
+      "people": 11,
+      "motor": 2
+    },
+    "63": {
+      "total": 47,
+      "pedestrian": 33,
+      "people": 11,
+      "motor": 3
+    },
+    "64": {
+      "total": 46,
+      "pedestrian": 33,
+      "people": 11,
+      "motor": 2
+    },
+    "65": {
+      "total": 46,
+      "pedestrian": 35,
+      "people": 9,
+      "motor": 2
+    },
+    "66": {
+      "total": 46,
+      "pedestrian": 34,
+      "people": 9,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "67": {
+      "total": 45,
+      "pedestrian": 36,
+      "people": 8,
+      "motor": 1
+    },
+    "68": {
+      "total": 48,
+      "pedestrian": 33,
+      "people": 12,
+      "motor": 3
+    },
+    "69": {
+      "total": 48,
+      "pedestrian": 34,
+      "people": 11,
+      "motor": 3
+    },
+    "70": {
+      "total": 53,
+      "pedestrian": 35,
+      "motor": 4,
+      "people": 13,
+      "bicycle": 1
+    },
+    "71": {
+      "total": 48,
+      "pedestrian": 32,
+      "people": 12,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "72": {
+      "total": 49,
+      "pedestrian": 35,
+      "people": 11,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "73": {
+      "total": 47,
+      "pedestrian": 34,
+      "people": 11,
+      "motor": 2
+    },
+    "74": {
+      "total": 46,
+      "pedestrian": 35,
+      "people": 10,
+      "motor": 1
+    },
+    "75": {
+      "total": 50,
+      "pedestrian": 36,
+      "people": 11,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "76": {
+      "total": 46,
+      "pedestrian": 34,
+      "people": 9,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "77": {
+      "total": 49,
+      "pedestrian": 37,
+      "people": 10,
+      "motor": 2
+    },
+    "78": {
+      "total": 49,
+      "pedestrian": 36,
+      "people": 11,
+      "motor": 2
+    },
+    "79": {
+      "total": 52,
+      "pedestrian": 36,
+      "people": 14,
+      "motor": 2
+    },
+    "80": {
+      "total": 51,
+      "pedestrian": 36,
+      "people": 13,
+      "motor": 2
+    },
+    "81": {
+      "total": 50,
+      "pedestrian": 35,
+      "motor": 3,
+      "people": 11,
+      "bicycle": 1
+    },
+    "82": {
+      "total": 50,
+      "pedestrian": 37,
+      "people": 10,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "83": {
+      "total": 50,
+      "pedestrian": 36,
+      "people": 8,
+      "motor": 4,
+      "bicycle": 2
+    },
+    "84": {
+      "total": 51,
+      "pedestrian": 37,
+      "people": 11,
+      "motor": 3
+    },
+    "85": {
+      "total": 50,
+      "pedestrian": 37,
+      "people": 11,
+      "motor": 2
+    },
+    "86": {
+      "total": 50,
+      "pedestrian": 36,
+      "people": 11,
+      "motor": 3
+    },
+    "87": {
+      "total": 46,
+      "pedestrian": 34,
+      "people": 10,
+      "motor": 2
+    },
+    "88": {
+      "total": 50,
+      "pedestrian": 37,
+      "people": 12,
+      "motor": 1
+    },
+    "89": {
+      "total": 48,
+      "pedestrian": 37,
+      "people": 9,
+      "motor": 2
+    },
+    "90": {
+      "total": 48,
+      "pedestrian": 37,
+      "people": 10,
+      "motor": 1
+    },
+    "91": {
+      "total": 45,
+      "pedestrian": 37,
+      "people": 7,
+      "motor": 1
+    },
+    "92": {
+      "total": 47,
+      "pedestrian": 36,
+      "people": 8,
+      "motor": 3
+    },
+    "93": {
+      "total": 49,
+      "pedestrian": 37,
+      "people": 10,
+      "motor": 2
+    },
+    "94": {
+      "total": 59,
+      "pedestrian": 44,
+      "bicycle": 1,
+      "people": 12,
+      "motor": 2
+    },
+    "95": {
+      "total": 51,
+      "pedestrian": 38,
+      "people": 11,
+      "motor": 2
+    },
+    "96": {
+      "total": 56,
+      "pedestrian": 41,
+      "people": 12,
+      "motor": 3
+    },
+    "97": {
+      "total": 55,
+      "pedestrian": 40,
+      "people": 12,
+      "motor": 3
+    },
+    "98": {
+      "total": 55,
+      "pedestrian": 39,
+      "people": 11,
+      "bicycle": 1,
+      "motor": 4
+    },
+    "99": {
+      "total": 52,
+      "pedestrian": 39,
+      "people": 8,
+      "motor": 5
+    },
+    "100": {
+      "total": 57,
+      "pedestrian": 41,
+      "people": 14,
+      "motor": 2
+    },
+    "101": {
+      "total": 52,
+      "pedestrian": 37,
+      "people": 12,
+      "motor": 3
+    },
+    "102": {
+      "total": 55,
+      "pedestrian": 37,
+      "people": 15,
+      "bicycle": 1,
+      "motor": 2
+    },
+    "103": {
+      "total": 55,
+      "pedestrian": 40,
+      "people": 11,
+      "bicycle": 1,
+      "motor": 3
+    },
+    "104": {
+      "total": 54,
+      "pedestrian": 37,
+      "bicycle": 1,
+      "people": 11,
+      "motor": 5
+    },
+    "105": {
+      "total": 49,
+      "pedestrian": 39,
+      "people": 8,
+      "bicycle": 1,
+      "motor": 1
+    },
+    "106": {
+      "total": 50,
+      "pedestrian": 37,
+      "people": 10,
+      "motor": 3
+    },
+    "107": {
+      "total": 58,
+      "pedestrian": 39,
+      "motor": 4,
+      "people": 14,
+      "bicycle": 1
+    },
+    "108": {
+      "total": 57,
+      "pedestrian": 40,
+      "people": 12,
+      "motor": 4,
+      "bicycle": 1
+    },
+    "109": {
+      "total": 55,
+      "pedestrian": 38,
+      "people": 13,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "110": {
+      "total": 53,
+      "pedestrian": 39,
+      "people": 12,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "111": {
+      "total": 55,
+      "pedestrian": 39,
+      "people": 13,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "112": {
+      "total": 55,
+      "pedestrian": 41,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "113": {
+      "total": 49,
+      "pedestrian": 38,
+      "people": 10,
+      "bicycle": 1
+    },
+    "114": {
+      "total": 56,
+      "pedestrian": 41,
+      "people": 13,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "115": {
+      "total": 61,
+      "pedestrian": 43,
+      "people": 15,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "116": {
+      "total": 62,
+      "pedestrian": 40,
+      "people": 17,
+      "motor": 4,
+      "bicycle": 1
+    },
+    "117": {
+      "total": 58,
+      "pedestrian": 41,
+      "people": 13,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "118": {
+      "total": 56,
+      "pedestrian": 38,
+      "people": 14,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "119": {
+      "total": 58,
+      "pedestrian": 40,
+      "people": 13,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "120": {
+      "total": 57,
+      "pedestrian": 38,
+      "people": 16,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "121": {
+      "total": 50,
+      "pedestrian": 39,
+      "people": 11
+    },
+    "122": {
+      "total": 55,
+      "pedestrian": 40,
+      "people": 13,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "123": {
+      "total": 58,
+      "pedestrian": 41,
+      "people": 13,
+      "motor": 4
+    },
+    "124": {
+      "total": 55,
+      "pedestrian": 38,
+      "people": 14,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "125": {
+      "total": 56,
+      "pedestrian": 41,
+      "people": 14,
+      "motor": 1
+    },
+    "126": {
+      "total": 50,
+      "pedestrian": 39,
+      "people": 10,
+      "motor": 1
+    },
+    "127": {
+      "total": 51,
+      "pedestrian": 38,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "128": {
+      "total": 51,
+      "pedestrian": 40,
+      "people": 9,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "129": {
+      "total": 52,
+      "pedestrian": 36,
+      "people": 13,
+      "motor": 2,
+      "bicycle": 1
+    },
+    "130": {
+      "total": 54,
+      "pedestrian": 38,
+      "people": 13,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "131": {
+      "total": 53,
+      "pedestrian": 37,
+      "people": 12,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "132": {
+      "total": 48,
+      "pedestrian": 36,
+      "people": 8,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "133": {
+      "total": 54,
+      "pedestrian": 42,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "134": {
+      "total": 55,
+      "pedestrian": 40,
+      "people": 12,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "135": {
+      "total": 58,
+      "pedestrian": 42,
+      "people": 14,
+      "bicycle": 2
+    },
+    "136": {
+      "total": 52,
+      "pedestrian": 39,
+      "people": 11,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "137": {
+      "total": 53,
+      "pedestrian": 42,
+      "people": 8,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "138": {
+      "total": 50,
+      "pedestrian": 37,
+      "people": 10,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "139": {
+      "total": 52,
+      "pedestrian": 38,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "140": {
+      "total": 51,
+      "pedestrian": 39,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "141": {
+      "total": 54,
+      "pedestrian": 39,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "142": {
+      "total": 55,
+      "pedestrian": 40,
+      "people": 11,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "143": {
+      "total": 49,
+      "pedestrian": 38,
+      "people": 8,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "144": {
+      "total": 52,
+      "people": 8,
+      "pedestrian": 41,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "145": {
+      "total": 50,
+      "pedestrian": 39,
+      "people": 9,
+      "bicycle": 2
+    },
+    "146": {
+      "total": 53,
+      "pedestrian": 40,
+      "people": 10,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "147": {
+      "total": 56,
+      "pedestrian": 42,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "148": {
+      "total": 59,
+      "pedestrian": 44,
+      "people": 12,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "149": {
+      "total": 57,
+      "pedestrian": 43,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "150": {
+      "total": 52,
+      "pedestrian": 41,
+      "people": 8,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "151": {
+      "total": 55,
+      "pedestrian": 41,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "152": {
+      "total": 52,
+      "pedestrian": 40,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "153": {
+      "total": 53,
+      "pedestrian": 41,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "154": {
+      "total": 50,
+      "pedestrian": 40,
+      "people": 8,
+      "bicycle": 2
+    },
+    "155": {
+      "total": 57,
+      "pedestrian": 43,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "156": {
+      "total": 58,
+      "pedestrian": 39,
+      "bicycle": 4,
+      "people": 13,
+      "motor": 2
+    },
+    "157": {
+      "total": 60,
+      "pedestrian": 45,
+      "people": 11,
+      "bicycle": 3,
+      "motor": 1
+    },
+    "158": {
+      "total": 60,
+      "pedestrian": 44,
+      "people": 13,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "159": {
+      "total": 59,
+      "pedestrian": 44,
+      "people": 12,
+      "bicycle": 3
+    },
+    "160": {
+      "total": 60,
+      "pedestrian": 46,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 1
+    },
+    "161": {
+      "total": 61,
+      "pedestrian": 42,
+      "people": 13,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "162": {
+      "total": 64,
+      "pedestrian": 45,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 4
+    },
+    "163": {
+      "total": 61,
+      "pedestrian": 45,
+      "people": 10,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "164": {
+      "total": 56,
+      "pedestrian": 41,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 1
+    },
+    "165": {
+      "total": 57,
+      "pedestrian": 43,
+      "people": 10,
+      "bicycle": 1,
+      "motor": 3
+    },
+    "166": {
+      "total": 59,
+      "pedestrian": 43,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "167": {
+      "total": 57,
+      "pedestrian": 42,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "168": {
+      "total": 57,
+      "pedestrian": 45,
+      "people": 6,
+      "bicycle": 2,
+      "motor": 4
+    },
+    "169": {
+      "total": 60,
+      "pedestrian": 47,
+      "people": 8,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "170": {
+      "total": 57,
+      "pedestrian": 45,
+      "people": 6,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "171": {
+      "total": 61,
+      "people": 8,
+      "pedestrian": 47,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "172": {
+      "total": 59,
+      "pedestrian": 48,
+      "people": 6,
+      "motor": 2,
+      "bicycle": 3
+    },
+    "173": {
+      "total": 61,
+      "pedestrian": 45,
+      "motor": 3,
+      "people": 10,
+      "bicycle": 3
+    },
+    "174": {
+      "total": 61,
+      "pedestrian": 46,
+      "people": 9,
+      "motor": 2,
+      "bicycle": 4
+    },
+    "175": {
+      "total": 59,
+      "pedestrian": 44,
+      "motor": 3,
+      "people": 9,
+      "bicycle": 3
+    },
+    "176": {
+      "total": 60,
+      "pedestrian": 45,
+      "people": 9,
+      "motor": 2,
+      "bicycle": 4
+    },
+    "177": {
+      "total": 63,
+      "pedestrian": 47,
+      "motor": 5,
+      "people": 9,
+      "bicycle": 2
+    },
+    "178": {
+      "total": 60,
+      "pedestrian": 44,
+      "motor": 4,
+      "people": 9,
+      "bicycle": 3
+    },
+    "179": {
+      "total": 57,
+      "pedestrian": 45,
+      "people": 6,
+      "motor": 5,
+      "bicycle": 1
+    },
+    "180": {
+      "total": 59,
+      "pedestrian": 44,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 2
+    },
+    "181": {
+      "total": 63,
+      "pedestrian": 45,
+      "people": 12,
+      "motor": 2,
+      "bicycle": 3,
+      "van": 1
+    },
+    "182": {
+      "total": 57,
+      "pedestrian": 40,
+      "people": 12,
+      "motor": 2,
+      "van": 1,
+      "bicycle": 2
+    },
+    "183": {
+      "total": 54,
+      "pedestrian": 40,
+      "people": 9,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "184": {
+      "total": 58,
+      "pedestrian": 44,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 1
+    },
+    "185": {
+      "total": 59,
+      "pedestrian": 44,
+      "people": 7,
+      "motor": 5,
+      "bicycle": 3
+    },
+    "186": {
+      "total": 54,
+      "pedestrian": 42,
+      "people": 6,
+      "motor": 2,
+      "bicycle": 3,
+      "tricycle": 1
+    },
+    "187": {
+      "total": 52,
+      "pedestrian": 41,
+      "people": 7,
+      "bicycle": 3,
+      "motor": 1
+    },
+    "188": {
+      "total": 57,
+      "pedestrian": 40,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 5
+    },
+    "189": {
+      "total": 59,
+      "pedestrian": 42,
+      "people": 9,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "190": {
+      "total": 57,
+      "pedestrian": 43,
+      "people": 9,
+      "motor": 2,
+      "bicycle": 3
+    },
+    "191": {
+      "total": 59,
+      "pedestrian": 44,
+      "people": 11,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "192": {
+      "total": 61,
+      "pedestrian": 45,
+      "motor": 3,
+      "bicycle": 4,
+      "people": 8,
+      "car": 1
+    },
+    "193": {
+      "total": 58,
+      "pedestrian": 44,
+      "motor": 4,
+      "people": 7,
+      "bicycle": 3
+    },
+    "194": {
+      "total": 57,
+      "pedestrian": 43,
+      "motor": 3,
+      "bicycle": 2,
+      "people": 8,
+      "car": 1
+    },
+    "195": {
+      "total": 56,
+      "pedestrian": 42,
+      "people": 8,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 1
+    },
+    "196": {
+      "total": 59,
+      "pedestrian": 42,
+      "motor": 4,
+      "people": 10,
+      "car": 1,
+      "bicycle": 2
+    },
+    "197": {
+      "total": 59,
+      "pedestrian": 42,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 3,
+      "car": 1
+    },
+    "198": {
+      "total": 61,
+      "pedestrian": 43,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 4,
+      "car": 1
+    },
+    "199": {
+      "total": 61,
+      "pedestrian": 43,
+      "people": 9,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 4
+    },
+    "200": {
+      "total": 66,
+      "pedestrian": 47,
+      "people": 11,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 3
+    },
+    "201": {
+      "total": 62,
+      "pedestrian": 45,
+      "motor": 4,
+      "people": 10,
+      "car": 1,
+      "bicycle": 2
+    },
+    "202": {
+      "total": 58,
+      "pedestrian": 42,
+      "people": 9,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 2
+    },
+    "203": {
+      "total": 63,
+      "pedestrian": 45,
+      "people": 9,
+      "motor": 6,
+      "car": 1,
+      "bicycle": 2
+    },
+    "204": {
+      "total": 64,
+      "pedestrian": 40,
+      "motor": 6,
+      "people": 13,
+      "bicycle": 4,
+      "car": 1
+    },
+    "205": {
+      "total": 63,
+      "pedestrian": 42,
+      "motor": 5,
+      "people": 11,
+      "bicycle": 4,
+      "car": 1
+    },
+    "206": {
+      "total": 65,
+      "pedestrian": 45,
+      "motor": 4,
+      "people": 11,
+      "bicycle": 4,
+      "car": 1
+    },
+    "207": {
+      "total": 64,
+      "pedestrian": 43,
+      "motor": 6,
+      "people": 10,
+      "bicycle": 4,
+      "car": 1
+    },
+    "208": {
+      "total": 61,
+      "pedestrian": 45,
+      "motor": 5,
+      "people": 7,
+      "car": 1,
+      "bicycle": 3
+    },
+    "209": {
+      "total": 59,
+      "pedestrian": 41,
+      "motor": 4,
+      "people": 11,
+      "car": 1,
+      "bicycle": 2
+    },
+    "210": {
+      "total": 59,
+      "pedestrian": 42,
+      "motor": 4,
+      "people": 10,
+      "car": 1,
+      "bicycle": 2
+    },
+    "211": {
+      "total": 61,
+      "pedestrian": 40,
+      "motor": 5,
+      "people": 12,
+      "car": 1,
+      "bicycle": 3
+    },
+    "212": {
+      "total": 59,
+      "pedestrian": 40,
+      "people": 11,
+      "motor": 5,
+      "car": 1,
+      "bicycle": 2
+    },
+    "213": {
+      "total": 62,
+      "pedestrian": 45,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "214": {
+      "total": 63,
+      "pedestrian": 42,
+      "people": 15,
+      "motor": 4,
+      "bicycle": 2
+    },
+    "215": {
+      "total": 67,
+      "pedestrian": 47,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 5
+    },
+    "216": {
+      "total": 68,
+      "pedestrian": 45,
+      "bicycle": 4,
+      "people": 14,
+      "motor": 5
+    },
+    "217": {
+      "total": 62,
+      "pedestrian": 44,
+      "people": 14,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "218": {
+      "total": 65,
+      "pedestrian": 45,
+      "bicycle": 3,
+      "people": 13,
+      "motor": 4
+    },
+    "219": {
+      "total": 62,
+      "pedestrian": 42,
+      "people": 14,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "220": {
+      "total": 57,
+      "pedestrian": 44,
+      "people": 10,
+      "bicycle": 3
+    },
+    "221": {
+      "total": 57,
+      "pedestrian": 45,
+      "people": 10,
+      "bicycle": 1,
+      "motor": 1
+    },
+    "222": {
+      "total": 54,
+      "pedestrian": 42,
+      "bicycle": 1,
+      "people": 10,
+      "motor": 1
+    },
+    "223": {
+      "total": 58,
+      "pedestrian": 46,
+      "bicycle": 1,
+      "people": 11
+    },
+    "224": {
+      "total": 60,
+      "pedestrian": 46,
+      "bicycle": 2,
+      "people": 12
+    },
+    "225": {
+      "total": 61,
+      "bicycle": 2,
+      "pedestrian": 47,
+      "people": 10,
+      "motor": 2
+    },
+    "226": {
+      "total": 57,
+      "pedestrian": 43,
+      "bicycle": 2,
+      "people": 11,
+      "motor": 1
+    },
+    "227": {
+      "total": 61,
+      "pedestrian": 45,
+      "bicycle": 2,
+      "people": 12,
+      "motor": 2
+    },
+    "228": {
+      "total": 64,
+      "bicycle": 3,
+      "pedestrian": 47,
+      "people": 12,
+      "motor": 2
+    },
+    "229": {
+      "total": 61,
+      "bicycle": 3,
+      "pedestrian": 42,
+      "people": 14,
+      "motor": 2
+    },
+    "230": {
+      "total": 66,
+      "pedestrian": 45,
+      "bicycle": 3,
+      "people": 15,
+      "motor": 3
+    },
+    "231": {
+      "total": 67,
+      "pedestrian": 47,
+      "bicycle": 2,
+      "people": 16,
+      "motor": 2
+    },
+    "232": {
+      "total": 70,
+      "bicycle": 2,
+      "pedestrian": 50,
+      "people": 16,
+      "motor": 2
+    },
+    "233": {
+      "total": 63,
+      "pedestrian": 45,
+      "people": 14,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "234": {
+      "total": 68,
+      "pedestrian": 45,
+      "people": 17,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "235": {
+      "total": 63,
+      "pedestrian": 46,
+      "people": 13,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "236": {
+      "total": 72,
+      "pedestrian": 47,
+      "bicycle": 2,
+      "people": 18,
+      "motor": 5
+    },
+    "237": {
+      "total": 67,
+      "pedestrian": 47,
+      "people": 16,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "238": {
+      "total": 60,
+      "pedestrian": 43,
+      "people": 13,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "239": {
+      "total": 65,
+      "pedestrian": 43,
+      "people": 14,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "240": {
+      "total": 62,
+      "pedestrian": 41,
+      "people": 14,
+      "bicycle": 4,
+      "car": 1,
+      "motor": 2
+    },
+    "241": {
+      "total": 63,
+      "pedestrian": 43,
+      "bicycle": 3,
+      "people": 13,
+      "car": 1,
+      "motor": 3
+    },
+    "242": {
+      "total": 62,
+      "pedestrian": 42,
+      "people": 15,
+      "bicycle": 3,
+      "car": 1,
+      "motor": 1
+    },
+    "243": {
+      "total": 67,
+      "pedestrian": 44,
+      "bicycle": 3,
+      "people": 17,
+      "car": 1,
+      "motor": 2
+    },
+    "244": {
+      "total": 64,
+      "pedestrian": 42,
+      "bicycle": 3,
+      "people": 16,
+      "motor": 2,
+      "car": 1
+    },
+    "245": {
+      "total": 58,
+      "pedestrian": 42,
+      "bicycle": 1,
+      "people": 12,
+      "car": 1,
+      "motor": 2
+    },
+    "246": {
+      "total": 71,
+      "pedestrian": 46,
+      "people": 18,
+      "bicycle": 2,
+      "motor": 4,
+      "car": 1
+    },
+    "247": {
+      "total": 64,
+      "pedestrian": 48,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 3,
+      "car": 1
+    },
+    "248": {
+      "total": 63,
+      "pedestrian": 46,
+      "bicycle": 2,
+      "people": 11,
+      "motor": 3,
+      "car": 1
+    },
+    "249": {
+      "total": 63,
+      "pedestrian": 45,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 2,
+      "car": 1
+    },
+    "250": {
+      "total": 63,
+      "pedestrian": 46,
+      "people": 10,
+      "motor": 2,
+      "car": 2,
+      "bicycle": 3
+    },
+    "251": {
+      "total": 70,
+      "pedestrian": 51,
+      "bicycle": 4,
+      "people": 11,
+      "motor": 3,
+      "car": 1
+    },
+    "252": {
+      "total": 65,
+      "pedestrian": 48,
+      "bicycle": 2,
+      "people": 12,
+      "motor": 2,
+      "car": 1
+    },
+    "253": {
+      "total": 65,
+      "pedestrian": 47,
+      "people": 11,
+      "bicycle": 3,
+      "car": 2,
+      "motor": 2
+    },
+    "254": {
+      "total": 67,
+      "pedestrian": 46,
+      "bicycle": 4,
+      "people": 12,
+      "motor": 3,
+      "car": 2
+    },
+    "255": {
+      "total": 67,
+      "pedestrian": 47,
+      "bicycle": 3,
+      "people": 13,
+      "motor": 2,
+      "car": 2
+    },
+    "256": {
+      "total": 67,
+      "pedestrian": 46,
+      "bicycle": 4,
+      "people": 12,
+      "car": 2,
+      "motor": 3
+    },
+    "257": {
+      "total": 68,
+      "pedestrian": 44,
+      "bicycle": 4,
+      "people": 14,
+      "motor": 4,
+      "car": 2
+    },
+    "258": {
+      "total": 68,
+      "pedestrian": 43,
+      "bicycle": 4,
+      "people": 14,
+      "motor": 5,
+      "car": 2
+    },
+    "259": {
+      "total": 68,
+      "pedestrian": 46,
+      "bicycle": 4,
+      "motor": 4,
+      "people": 12,
+      "car": 2
+    },
+    "260": {
+      "total": 66,
+      "pedestrian": 46,
+      "bicycle": 3,
+      "people": 11,
+      "motor": 5,
+      "car": 1
+    },
+    "261": {
+      "total": 71,
+      "pedestrian": 50,
+      "people": 10,
+      "bicycle": 5,
+      "motor": 4,
+      "car": 2
+    },
+    "262": {
+      "total": 73,
+      "pedestrian": 53,
+      "bicycle": 6,
+      "motor": 3,
+      "people": 10,
+      "car": 1
+    },
+    "263": {
+      "total": 69,
+      "pedestrian": 49,
+      "people": 13,
+      "bicycle": 4,
+      "motor": 2,
+      "car": 1
+    },
+    "264": {
+      "total": 69,
+      "pedestrian": 50,
+      "bicycle": 4,
+      "people": 11,
+      "motor": 2,
+      "car": 2
+    },
+    "265": {
+      "total": 70,
+      "pedestrian": 51,
+      "bicycle": 3,
+      "people": 11,
+      "car": 2,
+      "motor": 3
+    },
+    "266": {
+      "total": 68,
+      "pedestrian": 49,
+      "bicycle": 3,
+      "people": 11,
+      "motor": 3,
+      "car": 2
+    },
+    "267": {
+      "total": 66,
+      "pedestrian": 49,
+      "bicycle": 3,
+      "people": 11,
+      "car": 2,
+      "motor": 1
+    },
+    "268": {
+      "total": 67,
+      "pedestrian": 51,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 2,
+      "car": 2
+    },
+    "269": {
+      "total": 67,
+      "pedestrian": 49,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 4,
+      "car": 2
+    },
+    "270": {
+      "total": 64,
+      "pedestrian": 45,
+      "bicycle": 3,
+      "people": 11,
+      "motor": 3,
+      "car": 2
+    },
+    "271": {
+      "total": 63,
+      "pedestrian": 46,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 3,
+      "car": 2
+    },
+    "272": {
+      "total": 65,
+      "pedestrian": 49,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 2,
+      "car": 2
+    },
+    "273": {
+      "total": 67,
+      "pedestrian": 47,
+      "bicycle": 2,
+      "people": 13,
+      "motor": 3,
+      "car": 2
+    },
+    "274": {
+      "total": 69,
+      "pedestrian": 48,
+      "people": 13,
+      "bicycle": 3,
+      "car": 2,
+      "motor": 3
+    },
+    "275": {
+      "total": 71,
+      "pedestrian": 52,
+      "people": 12,
+      "bicycle": 2,
+      "car": 2,
+      "motor": 3
+    },
+    "276": {
+      "total": 68,
+      "pedestrian": 49,
+      "people": 13,
+      "bicycle": 2,
+      "car": 2,
+      "motor": 2
+    },
+    "277": {
+      "total": 72,
+      "pedestrian": 52,
+      "people": 13,
+      "bicycle": 2,
+      "car": 2,
+      "motor": 3
+    },
+    "278": {
+      "total": 74,
+      "pedestrian": 54,
+      "people": 12,
+      "motor": 3,
+      "car": 2,
+      "bicycle": 3
+    },
+    "279": {
+      "total": 71,
+      "pedestrian": 51,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 4,
+      "car": 1
+    },
+    "280": {
+      "total": 71,
+      "pedestrian": 52,
+      "people": 13,
+      "motor": 2,
+      "car": 1,
+      "bicycle": 3
+    },
+    "281": {
+      "total": 70,
+      "pedestrian": 54,
+      "people": 11,
+      "motor": 3,
+      "car": 1,
+      "bicycle": 1
+    },
+    "282": {
+      "total": 69,
+      "people": 10,
+      "pedestrian": 52,
+      "motor": 3,
+      "car": 1,
+      "bicycle": 3
+    },
+    "283": {
+      "total": 70,
+      "people": 10,
+      "pedestrian": 53,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 2
+    },
+    "284": {
+      "total": 72,
+      "pedestrian": 54,
+      "people": 11,
+      "motor": 4,
+      "car": 2,
+      "bicycle": 1
+    },
+    "285": {
+      "total": 72,
+      "pedestrian": 55,
+      "people": 10,
+      "bicycle": 2,
+      "car": 2,
+      "motor": 3
+    },
+    "286": {
+      "total": 76,
+      "people": 12,
+      "pedestrian": 56,
+      "bicycle": 4,
+      "car": 2,
+      "motor": 2
+    },
+    "287": {
+      "total": 74,
+      "pedestrian": 58,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 3,
+      "car": 2
+    },
+    "288": {
+      "total": 77,
+      "pedestrian": 54,
+      "people": 15,
+      "bicycle": 1,
+      "car": 2,
+      "motor": 5
+    },
+    "289": {
+      "total": 74,
+      "people": 13,
+      "pedestrian": 55,
+      "bicycle": 2,
+      "motor": 2,
+      "car": 2
+    },
+    "290": {
+      "total": 77,
+      "pedestrian": 58,
+      "people": 12,
+      "bicycle": 1,
+      "motor": 4,
+      "car": 2
+    },
+    "291": {
+      "total": 75,
+      "people": 13,
+      "pedestrian": 56,
+      "bicycle": 2,
+      "motor": 2,
+      "car": 2
+    },
+    "292": {
+      "total": 81,
+      "people": 14,
+      "pedestrian": 60,
+      "motor": 2,
+      "bicycle": 3,
+      "car": 2
+    },
+    "293": {
+      "total": 77,
+      "pedestrian": 58,
+      "people": 13,
+      "bicycle": 3,
+      "motor": 2,
+      "car": 1
+    },
+    "294": {
+      "total": 74,
+      "pedestrian": 57,
+      "people": 12,
+      "bicycle": 2,
+      "car": 1,
+      "motor": 2
+    },
+    "295": {
+      "total": 72,
+      "pedestrian": 55,
+      "people": 11,
+      "car": 1,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "296": {
+      "total": 77,
+      "pedestrian": 56,
+      "people": 14,
+      "motor": 3,
+      "car": 1,
+      "bicycle": 3
+    },
+    "297": {
+      "total": 72,
+      "pedestrian": 56,
+      "people": 11,
+      "bicycle": 3,
+      "car": 1,
+      "motor": 1
+    },
+    "298": {
+      "total": 76,
+      "pedestrian": 54,
+      "people": 13,
+      "car": 2,
+      "motor": 4,
+      "bicycle": 3
+    },
+    "299": {
+      "total": 74,
+      "people": 13,
+      "pedestrian": 54,
+      "motor": 3,
+      "car": 2,
+      "bicycle": 2
+    },
+    "300": {
+      "total": 69,
+      "pedestrian": 51,
+      "people": 11,
+      "car": 1,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "301": {
+      "total": 75,
+      "people": 14,
+      "pedestrian": 56,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "302": {
+      "total": 75,
+      "pedestrian": 55,
+      "people": 12,
+      "motor": 4,
+      "car": 1,
+      "bicycle": 3
+    },
+    "303": {
+      "total": 74,
+      "pedestrian": 56,
+      "people": 13,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "304": {
+      "total": 74,
+      "pedestrian": 55,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 3,
+      "car": 1
+    },
+    "305": {
+      "total": 72,
+      "pedestrian": 54,
+      "people": 13,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "306": {
+      "total": 75,
+      "people": 13,
+      "pedestrian": 56,
+      "bicycle": 3,
+      "motor": 2,
+      "car": 1
+    },
+    "307": {
+      "total": 77,
+      "pedestrian": 57,
+      "people": 14,
+      "bicycle": 2,
+      "motor": 3,
+      "car": 1
+    },
+    "308": {
+      "total": 79,
+      "pedestrian": 59,
+      "people": 11,
+      "bicycle": 5,
+      "motor": 2,
+      "car": 2
+    },
+    "309": {
+      "total": 78,
+      "pedestrian": 55,
+      "people": 13,
+      "bicycle": 6,
+      "motor": 3,
+      "car": 1
+    },
+    "310": {
+      "total": 79,
+      "pedestrian": 54,
+      "people": 15,
+      "bicycle": 6,
+      "motor": 3,
+      "car": 1
+    },
+    "311": {
+      "total": 74,
+      "pedestrian": 55,
+      "people": 15,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "312": {
+      "total": 76,
+      "pedestrian": 57,
+      "people": 13,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "313": {
+      "total": 71,
+      "pedestrian": 54,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "314": {
+      "total": 75,
+      "pedestrian": 55,
+      "people": 11,
+      "motor": 4,
+      "bicycle": 5
+    },
+    "315": {
+      "total": 69,
+      "pedestrian": 54,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 2
+    },
+    "316": {
+      "total": 72,
+      "pedestrian": 54,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "317": {
+      "total": 68,
+      "pedestrian": 52,
+      "people": 9,
+      "motor": 3,
+      "bicycle": 3,
+      "car": 1
+    },
+    "318": {
+      "total": 72,
+      "pedestrian": 57,
+      "people": 9,
+      "motor": 3,
+      "bicycle": 2,
+      "car": 1
+    },
+    "319": {
+      "total": 76,
+      "pedestrian": 58,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 5
+    },
+    "320": {
+      "total": 71,
+      "pedestrian": 56,
+      "people": 7,
+      "motor": 4,
+      "bicycle": 4
+    },
+    "321": {
+      "total": 69,
+      "pedestrian": 50,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 6
+    },
+    "322": {
+      "total": 69,
+      "pedestrian": 52,
+      "people": 10,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "323": {
+      "total": 67,
+      "pedestrian": 51,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 3
+    },
+    "324": {
+      "total": 72,
+      "pedestrian": 54,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "325": {
+      "total": 70,
+      "pedestrian": 50,
+      "people": 11,
+      "bicycle": 4,
+      "motor": 5
+    },
+    "326": {
+      "total": 74,
+      "pedestrian": 54,
+      "people": 11,
+      "bicycle": 4,
+      "motor": 5
+    },
+    "327": {
+      "total": 77,
+      "pedestrian": 57,
+      "people": 12,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "328": {
+      "total": 70,
+      "pedestrian": 53,
+      "people": 9,
+      "bicycle": 3,
+      "motor": 5
+    },
+    "329": {
+      "total": 68,
+      "pedestrian": 52,
+      "people": 10,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "330": {
+      "total": 75,
+      "pedestrian": 56,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 4
+    },
+    "331": {
+      "total": 67,
+      "pedestrian": 52,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 3,
+      "car": 1
+    },
+    "332": {
+      "total": 74,
+      "pedestrian": 55,
+      "people": 12,
+      "bicycle": 4,
+      "motor": 3
+    },
+    "333": {
+      "total": 66,
+      "pedestrian": 49,
+      "people": 10,
+      "motor": 4,
+      "bicycle": 3
+    },
+    "334": {
+      "total": 67,
+      "pedestrian": 50,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "335": {
+      "total": 68,
+      "pedestrian": 53,
+      "people": 8,
+      "motor": 4,
+      "bicycle": 3
+    },
+    "336": {
+      "total": 78,
+      "pedestrian": 56,
+      "people": 13,
+      "bicycle": 4,
+      "motor": 5
+    },
+    "337": {
+      "total": 76,
+      "pedestrian": 57,
+      "people": 11,
+      "motor": 4,
+      "bicycle": 4
+    },
+    "338": {
+      "total": 77,
+      "pedestrian": 60,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "339": {
+      "total": 74,
+      "pedestrian": 56,
+      "people": 11,
+      "bicycle": 5,
+      "motor": 2
+    },
+    "340": {
+      "total": 78,
+      "pedestrian": 60,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "341": {
+      "total": 79,
+      "pedestrian": 62,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "342": {
+      "total": 72,
+      "pedestrian": 57,
+      "people": 7,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "343": {
+      "total": 72,
+      "pedestrian": 54,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "344": {
+      "total": 78,
+      "pedestrian": 58,
+      "people": 12,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "345": {
+      "total": 77,
+      "pedestrian": 60,
+      "bicycle": 5,
+      "people": 10,
+      "motor": 2
+    },
+    "346": {
+      "total": 74,
+      "pedestrian": 57,
+      "bicycle": 5,
+      "people": 9,
+      "motor": 3
+    },
+    "347": {
+      "total": 78,
+      "pedestrian": 59,
+      "people": 11,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "348": {
+      "total": 77,
+      "pedestrian": 58,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 5
+    },
+    "349": {
+      "total": 76,
+      "pedestrian": 58,
+      "people": 11,
+      "bicycle": 4,
+      "motor": 3
+    },
+    "350": {
+      "total": 73,
+      "pedestrian": 57,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "351": {
+      "total": 74,
+      "pedestrian": 58,
+      "people": 7,
+      "bicycle": 6,
+      "motor": 3
+    },
+    "352": {
+      "total": 80,
+      "pedestrian": 61,
+      "bicycle": 5,
+      "people": 10,
+      "motor": 4
+    },
+    "353": {
+      "total": 76,
+      "pedestrian": 58,
+      "bicycle": 3,
+      "people": 12,
+      "motor": 3
+    },
+    "354": {
+      "total": 79,
+      "pedestrian": 60,
+      "bicycle": 3,
+      "people": 12,
+      "motor": 4
+    },
+    "355": {
+      "total": 72,
+      "pedestrian": 57,
+      "bicycle": 2,
+      "people": 10,
+      "motor": 3
+    },
+    "356": {
+      "total": 72,
+      "pedestrian": 56,
+      "bicycle": 4,
+      "people": 9,
+      "motor": 3
+    },
+    "357": {
+      "total": 69,
+      "pedestrian": 53,
+      "bicycle": 4,
+      "people": 9,
+      "motor": 3
+    },
+    "358": {
+      "total": 71,
+      "pedestrian": 55,
+      "bicycle": 4,
+      "people": 7,
+      "motor": 5
+    },
+    "359": {
+      "total": 70,
+      "pedestrian": 54,
+      "people": 8,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "360": {
+      "total": 71,
+      "pedestrian": 55,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 3
+    },
+    "361": {
+      "total": 69,
+      "pedestrian": 52,
+      "people": 10,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "362": {
+      "total": 74,
+      "pedestrian": 57,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 3
+    },
+    "363": {
+      "total": 73,
+      "pedestrian": 55,
+      "people": 10,
+      "motor": 4,
+      "bicycle": 4
+    },
+    "364": {
+      "total": 69,
+      "pedestrian": 53,
+      "people": 10,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "365": {
+      "total": 63,
+      "pedestrian": 49,
+      "people": 8,
+      "bicycle": 2,
+      "motor": 4
+    },
+    "366": {
+      "total": 71,
+      "pedestrian": 55,
+      "people": 8,
+      "bicycle": 4,
+      "motor": 4
+    },
+    "367": {
+      "total": 69,
+      "pedestrian": 53,
+      "people": 8,
+      "bicycle": 4,
+      "motor": 3,
+      "car": 1
+    },
+    "368": {
+      "total": 63,
+      "pedestrian": 52,
+      "people": 6,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "369": {
+      "total": 67,
+      "pedestrian": 55,
+      "people": 7,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "370": {
+      "total": 67,
+      "pedestrian": 50,
+      "people": 11,
+      "bicycle": 2,
+      "motor": 4
+    },
+    "371": {
+      "total": 68,
+      "pedestrian": 51,
+      "people": 13,
+      "bicycle": 2,
+      "motor": 2
+    },
+    "372": {
+      "total": 71,
+      "pedestrian": 54,
+      "bicycle": 5,
+      "people": 9,
+      "motor": 3
+    },
+    "373": {
+      "total": 70,
+      "pedestrian": 53,
+      "bicycle": 5,
+      "people": 9,
+      "motor": 2,
+      "car": 1
+    },
+    "374": {
+      "total": 73,
+      "pedestrian": 54,
+      "bicycle": 4,
+      "people": 12,
+      "motor": 2,
+      "car": 1
+    },
+    "375": {
+      "total": 67,
+      "pedestrian": 52,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "376": {
+      "total": 66,
+      "pedestrian": 54,
+      "bicycle": 3,
+      "people": 8,
+      "motor": 1
+    },
+    "377": {
+      "total": 72,
+      "pedestrian": 56,
+      "bicycle": 4,
+      "people": 11,
+      "motor": 1
+    },
+    "378": {
+      "total": 67,
+      "pedestrian": 52,
+      "bicycle": 3,
+      "people": 11,
+      "motor": 1
+    },
+    "379": {
+      "total": 69,
+      "pedestrian": 52,
+      "bicycle": 3,
+      "people": 11,
+      "motor": 3
+    },
+    "380": {
+      "total": 65,
+      "pedestrian": 49,
+      "bicycle": 2,
+      "people": 13,
+      "motor": 1
+    },
+    "381": {
+      "total": 63,
+      "pedestrian": 48,
+      "bicycle": 2,
+      "people": 11,
+      "motor": 2
+    },
+    "382": {
+      "total": 67,
+      "pedestrian": 49,
+      "bicycle": 2,
+      "people": 13,
+      "motor": 3
+    },
+    "383": {
+      "total": 78,
+      "pedestrian": 57,
+      "bicycle": 3,
+      "people": 17,
+      "motor": 1
+    },
+    "384": {
+      "total": 65,
+      "pedestrian": 51,
+      "bicycle": 2,
+      "people": 11,
+      "motor": 1
+    },
+    "385": {
+      "total": 69,
+      "pedestrian": 50,
+      "bicycle": 2,
+      "people": 15,
+      "motor": 2
+    },
+    "386": {
+      "total": 69,
+      "pedestrian": 51,
+      "bicycle": 4,
+      "people": 12,
+      "motor": 2
+    },
+    "387": {
+      "total": 67,
+      "pedestrian": 48,
+      "people": 14,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "388": {
+      "total": 67,
+      "pedestrian": 49,
+      "people": 14,
+      "bicycle": 3,
+      "motor": 1
+    },
+    "389": {
+      "total": 70,
+      "pedestrian": 54,
+      "people": 12,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "390": {
+      "total": 67,
+      "pedestrian": 50,
+      "people": 10,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "391": {
+      "total": 69,
+      "pedestrian": 54,
+      "bicycle": 3,
+      "motor": 2,
+      "people": 10
+    },
+    "392": {
+      "total": 70,
+      "pedestrian": 53,
+      "bicycle": 3,
+      "people": 12,
+      "motor": 2
+    },
+    "393": {
+      "total": 62,
+      "pedestrian": 46,
+      "bicycle": 3,
+      "people": 12,
+      "motor": 1
+    },
+    "394": {
+      "total": 64,
+      "pedestrian": 49,
+      "bicycle": 4,
+      "people": 10,
+      "motor": 1
+    },
+    "395": {
+      "total": 68,
+      "pedestrian": 52,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "396": {
+      "total": 68,
+      "pedestrian": 53,
+      "people": 9,
+      "bicycle": 5,
+      "motor": 1
+    },
+    "397": {
+      "total": 70,
+      "pedestrian": 52,
+      "people": 12,
+      "bicycle": 5,
+      "motor": 1
+    },
+    "398": {
+      "total": 68,
+      "pedestrian": 53,
+      "people": 8,
+      "motor": 2,
+      "bicycle": 5
+    },
+    "399": {
+      "total": 69,
+      "pedestrian": 51,
+      "people": 12,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "400": {
+      "total": 66,
+      "pedestrian": 50,
+      "people": 10,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "401": {
+      "total": 65,
+      "pedestrian": 50,
+      "people": 12,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "402": {
+      "total": 64,
+      "pedestrian": 51,
+      "people": 8,
+      "motor": 2,
+      "bicycle": 3
+    },
+    "403": {
+      "total": 68,
+      "pedestrian": 51,
+      "people": 9,
+      "bicycle": 6,
+      "motor": 2
+    },
+    "404": {
+      "total": 69,
+      "pedestrian": 49,
+      "people": 12,
+      "bicycle": 7,
+      "motor": 1
+    },
+    "405": {
+      "total": 68,
+      "pedestrian": 51,
+      "people": 9,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "406": {
+      "total": 68,
+      "pedestrian": 51,
+      "bicycle": 4,
+      "people": 11,
+      "motor": 2
+    },
+    "407": {
+      "total": 68,
+      "pedestrian": 52,
+      "motor": 3,
+      "bicycle": 3,
+      "people": 10
+    },
+    "408": {
+      "total": 73,
+      "pedestrian": 54,
+      "motor": 4,
+      "people": 11,
+      "bicycle": 4
+    },
+    "409": {
+      "total": 73,
+      "pedestrian": 57,
+      "motor": 3,
+      "people": 10,
+      "bicycle": 3
+    },
+    "410": {
+      "total": 71,
+      "pedestrian": 54,
+      "people": 11,
+      "motor": 2,
+      "bicycle": 4
+    },
+    "411": {
+      "total": 70,
+      "pedestrian": 52,
+      "people": 10,
+      "motor": 4,
+      "bicycle": 4
+    },
+    "412": {
+      "total": 67,
+      "pedestrian": 53,
+      "bicycle": 4,
+      "people": 8,
+      "motor": 2
+    },
+    "413": {
+      "total": 63,
+      "pedestrian": 50,
+      "motor": 2,
+      "people": 8,
+      "bicycle": 3
+    },
+    "414": {
+      "total": 69,
+      "pedestrian": 51,
+      "people": 11,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "415": {
+      "total": 69,
+      "pedestrian": 54,
+      "people": 8,
+      "bicycle": 4,
+      "motor": 3
+    },
+    "416": {
+      "total": 71,
+      "pedestrian": 56,
+      "people": 9,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "417": {
+      "total": 66,
+      "pedestrian": 53,
+      "motor": 4,
+      "people": 6,
+      "bicycle": 3
+    },
+    "418": {
+      "total": 73,
+      "pedestrian": 57,
+      "motor": 2,
+      "bicycle": 4,
+      "people": 10
+    },
+    "419": {
+      "total": 72,
+      "pedestrian": 58,
+      "motor": 3,
+      "bicycle": 4,
+      "people": 7
+    },
+    "420": {
+      "total": 68,
+      "pedestrian": 53,
+      "motor": 4,
+      "people": 8,
+      "bicycle": 3
+    },
+    "421": {
+      "total": 69,
+      "pedestrian": 54,
+      "people": 8,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "422": {
+      "total": 75,
+      "pedestrian": 56,
+      "people": 12,
+      "motor": 3,
+      "bicycle": 4
+    },
+    "423": {
+      "total": 72,
+      "pedestrian": 52,
+      "people": 11,
+      "motor": 5,
+      "bicycle": 4
+    },
+    "424": {
+      "total": 73,
+      "pedestrian": 54,
+      "motor": 4,
+      "people": 11,
+      "bicycle": 4
+    },
+    "425": {
+      "total": 67,
+      "pedestrian": 53,
+      "people": 8,
+      "motor": 2,
+      "bicycle": 4
+    },
+    "426": {
+      "total": 73,
+      "pedestrian": 55,
+      "people": 12,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "427": {
+      "total": 76,
+      "pedestrian": 59,
+      "people": 9,
+      "motor": 5,
+      "bicycle": 3
+    },
+    "428": {
+      "total": 73,
+      "pedestrian": 59,
+      "people": 6,
+      "bicycle": 3,
+      "motor": 5
+    },
+    "429": {
+      "total": 71,
+      "pedestrian": 60,
+      "people": 8,
+      "bicycle": 1,
+      "motor": 2
+    },
+    "430": {
+      "total": 71,
+      "pedestrian": 57,
+      "people": 7,
+      "bicycle": 3,
+      "motor": 4
+    },
+    "431": {
+      "total": 69,
+      "pedestrian": 56,
+      "people": 7,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "432": {
+      "total": 73,
+      "pedestrian": 57,
+      "people": 8,
+      "motor": 4,
+      "bicycle": 4
+    },
+    "433": {
+      "total": 72,
+      "pedestrian": 56,
+      "people": 9,
+      "bicycle": 3,
+      "motor": 4
+    },
+    "434": {
+      "total": 77,
+      "pedestrian": 60,
+      "people": 8,
+      "bicycle": 4,
+      "motor": 5
+    },
+    "435": {
+      "total": 76,
+      "pedestrian": 63,
+      "people": 8,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "436": {
+      "total": 70,
+      "pedestrian": 57,
+      "people": 7,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "437": {
+      "total": 75,
+      "pedestrian": 59,
+      "people": 9,
+      "motor": 4,
+      "bicycle": 3
+    },
+    "438": {
+      "total": 79,
+      "pedestrian": 59,
+      "people": 12,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "439": {
+      "total": 73,
+      "pedestrian": 58,
+      "people": 10,
+      "motor": 2,
+      "bicycle": 3
+    },
+    "440": {
+      "total": 69,
+      "pedestrian": 58,
+      "people": 8,
+      "bicycle": 3
+    },
+    "441": {
+      "total": 70,
+      "pedestrian": 59,
+      "people": 9,
+      "motor": 1,
+      "bicycle": 1
+    },
+    "442": {
+      "total": 70,
+      "pedestrian": 57,
+      "people": 9,
+      "bicycle": 3,
+      "motor": 1
+    },
+    "443": {
+      "total": 74,
+      "pedestrian": 60,
+      "people": 9,
+      "motor": 3,
+      "bicycle": 2
+    },
+    "444": {
+      "total": 81,
+      "pedestrian": 65,
+      "people": 12,
+      "motor": 2,
+      "bicycle": 2
+    },
+    "445": {
+      "total": 76,
+      "pedestrian": 62,
+      "people": 8,
+      "bicycle": 3,
+      "motor": 3
+    },
+    "446": {
+      "total": 79,
+      "pedestrian": 63,
+      "people": 12,
+      "motor": 1,
+      "bicycle": 3
+    },
+    "447": {
+      "total": 81,
+      "pedestrian": 60,
+      "people": 15,
+      "motor": 2,
+      "bicycle": 4
+    },
+    "448": {
+      "total": 75,
+      "pedestrian": 59,
+      "bicycle": 3,
+      "people": 12,
+      "motor": 1
+    },
+    "449": {
+      "total": 74,
+      "pedestrian": 60,
+      "people": 9,
+      "bicycle": 3,
+      "motor": 2
+    },
+    "450": {
+      "total": 80,
+      "pedestrian": 65,
+      "people": 9,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "451": {
+      "total": 80,
+      "pedestrian": 62,
+      "people": 10,
+      "bicycle": 5,
+      "motor": 3
+    },
+    "452": {
+      "total": 76,
+      "pedestrian": 64,
+      "people": 9,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "453": {
+      "total": 75,
+      "pedestrian": 63,
+      "people": 8,
+      "bicycle": 3,
+      "motor": 1
+    },
+    "454": {
+      "total": 78,
+      "pedestrian": 62,
+      "people": 10,
+      "motor": 3,
+      "bicycle": 3
+    },
+    "455": {
+      "total": 78,
+      "pedestrian": 61,
+      "people": 11,
+      "bicycle": 4,
+      "motor": 2
+    },
+    "456": {
+      "total": 82,
+      "pedestrian": 65,
+      "people": 14,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "457": {
+      "total": 83,
+      "pedestrian": 64,
+      "people": 16,
+      "motor": 1,
+      "bicycle": 2
+    },
+    "458": {
+      "total": 78,
+      "pedestrian": 59,
+      "people": 17,
+      "bicycle": 2
+    },
+    "459": {
+      "total": 81,
+      "pedestrian": 60,
+      "people": 19,
+      "bicycle": 2
+    },
+    "460": {
+      "total": 84,
+      "pedestrian": 64,
+      "people": 17,
+      "bicycle": 2,
+      "motor": 1
+    },
+    "461": {
+      "total": 83,
+      "pedestrian": 64,
+      "bicycle": 2,
+      "people": 15,
+      "motor": 2
+    },
+    "462": {
+      "total": 96,
+      "pedestrian": 70,
+      "bicycle": 5,
+      "people": 20,
+      "motor": 1
+    },
+    "463": {
+      "total": 84,
+      "pedestrian": 65,
+      "people": 17,
+      "bicycle": 2
+    }
+  }
+}
