@@ -1,5 +1,6 @@
 import base64
 import os
+import subprocess
 from collections import defaultdict
 from pathlib import Path
 from uuid import uuid4
@@ -159,10 +160,30 @@ async def process_video(file: UploadFile = File(...)):
     if not output_path.is_file():
         raise HTTPException(status_code=500, detail="No se generó el video de salida.")
 
+    # Re-encodar con H.264 CRF 18 para buena calidad y compatibilidad web
+    output_h264 = output_path.with_stem(output_path.stem + "_h264")
+    try:
+        subprocess.run(
+            [
+                "ffmpeg", "-y",
+                "-i", str(output_path),
+                "-vcodec", "libx264",
+                "-crf", "18",
+                "-preset", "fast",
+                "-movflags", "+faststart",
+                str(output_h264),
+            ],
+            check=True,
+            capture_output=True,
+        )
+        final_path = output_h264
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        final_path = output_path
+
     datos_json["total_frames"] = frame_idx
     datos_json["total_detecciones"] = total_dets
 
-    with output_path.open("rb") as vf:
+    with final_path.open("rb") as vf:
         video_b64 = base64.b64encode(vf.read()).decode("utf-8")
 
     datos_json["video_base64"] = video_b64
